@@ -12,9 +12,9 @@ function constructURL(text) {
 }
 
 function translateHandler() {
-  var input = input.value;
+  var text = input.value;
 
-  fetch(constructURL(input))
+  fetch(constructURL(text))
     .then((response) => response.json())
     .then((translatedInput) => {
       console.log(translatedInput);
