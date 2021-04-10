@@ -1,3 +1,3 @@
-# MarkSix(ferb latin translation app)
+# MarkSix(minion translation app)
 
-## this app translates english language to ferb latin language from phineas and ferb
+## this app translates english language to minion language
